@@ -10,5 +10,5 @@ This is a Rock Paper Scissors game built using Html, Css and Javascript.
 
 
 
-Uploading Rock Paper Scissors - Google Chrome 2024-05-18 21-09-55.mp4…
+https://github.com/Deepakkumarsahu-13/Rock-Paper-Scissors/assets/169329887/8a582dc6-890d-4ad8-aac3-b4af171fa76e
 
